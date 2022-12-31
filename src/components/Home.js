@@ -37,7 +37,7 @@ const Home = () => {
         rightBtnText="Existing inventory"
       />
       <Section
-        title="Lowest Cost Solar Panels in America"
+        title="Lowest Cost Solar Panels in India"
         description="Money back guatrantee"
         // backgroundImg="solar-panel.jpg"
         backgroundImg="model-s.jpg"
